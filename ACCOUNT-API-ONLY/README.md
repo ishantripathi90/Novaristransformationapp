@@ -1,0 +1,1 @@
+Use this single PHP file only if the matching **eight-assessment website** is already deployed. Place novaris-app-api.php directly inside public_html, at https://novaristransformationlab.com/novaris-app-api.php . If the older Novaris site is still live, instead deploy the complete SERVER_UPLOAD bundle.

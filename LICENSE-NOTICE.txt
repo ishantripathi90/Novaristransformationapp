@@ -1,0 +1,7 @@
+Novaris Android Studio source deliverable
+
+The Novaris website instruments, branding, image content and website JavaScript libraries are carried over from the user's supplied website archive.
+
+The Android app source uses Google AndroidX / Jetpack Compose and the Android Gradle Plugin through standard Maven repositories. These dependencies are downloaded when you sync the Android Studio project. Google/Android third-party open source licenses are governed by their respective license terms.
+
+The package does not grant rights to third-party photography beyond rights held by the original site owner. Confirm photo licensing before public Play Store distribution.
